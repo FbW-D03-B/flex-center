@@ -2,7 +2,9 @@
 
 ## Motivation
 Häufige Fragen in der Webseiten-Gestaltung:
+
 "Wie kann ich das Bild in die Mitte der Seite platzieren?"
+
 "Wie kann ich einen Button in die Mitte des Bildes platzieren?"
 
 ## Aufgabenstellung

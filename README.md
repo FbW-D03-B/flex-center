@@ -1,11 +1,11 @@
 # flex-center
 
-## Motivation
+## Motivation dieser Übung
 Häufige Fragen in der Webseiten-Gestaltung:
 
-"Wie kann ich das Bild in die Mitte der Seite platzieren?"
+_"Wie kann man ein Bild in der Mitte der Seite platzieren?"_
 
-"Wie kann ich einen Button in die Mitte des Bildes platzieren?"
+_"Wie kann man einen Button in die Mitte eines Bildes platzieren?"_
 
 ## Aufgabenstellung
 Erstelle eine Seite mit dem Titel **Northern Lights**

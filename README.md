@@ -5,7 +5,7 @@ Häufige Fragen in der Webseiten-Gestaltung:
 
 _"Wie kann man ein Bild in der Mitte der Seite platzieren?"_
 
-_"Wie kann man einen Button in die Mitte eines Bildes platzieren?"_
+_"Wie kann man einen Button in der Mitte eines Bildes platzieren?"_
 
 ## Aufgabenstellung
 Erstelle eine Seite mit dem Titel **Northern Lights**

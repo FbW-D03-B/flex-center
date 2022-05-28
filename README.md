@@ -12,9 +12,13 @@ Erstelle eine Seite mit dem Titel **Northern Lights**
 
 Die Seite besteht aus einem Bild und einem Button.
 
+### Teil 1
+
 Füge das Bild als `background-image` ein.
 
 Das Bild liegt immer exakt in der Mitte der Seite und nimmt `90%` der `Breite` und `Höhe` deines Fensters ein.
+
+### Teil 2
 
 In der Mitte des Bildes befindet sich ein `Button` mit der Beschriftung **Explore!**
 

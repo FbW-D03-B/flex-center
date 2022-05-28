@@ -14,7 +14,7 @@ Die Seite besteht aus einem Bild und einem Button.
 
 ### Teil 1
 
-Füge das Bild als `background-image` ein.
+Füge das Bild aus dem `image`-Ordner in deiner Seite als `background-image` ein.
 
 Das Bild liegt immer exakt in der Mitte der Seite und nimmt `90%` der `Breite` und `Höhe` deines Fensters ein.
 

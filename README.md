@@ -23,6 +23,6 @@ Das Bild liegt immer exakt in der Mitte der Seite und nimmt `90%` der `Breite` u
 In der Mitte des Bildes befindet sich ein `Button` mit der Beschriftung **Explore!**
 
 ## Beispiel
-Sie folgende Lösung als Beispiel an:
+Schaue folgendes Beispiel an:
 
 https://qczok.github.io/flex-button-center/
